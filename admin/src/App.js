@@ -4,9 +4,8 @@ import Dashboard from "pages/Dashboard";
 import Settings from "pages/Settings";
 import Tables from "pages/Tables";
 import Maps from "pages/Maps";
-
 // Tailwind CSS Style Sheet
-import "assets/styles/tailwind.css";
+// import "assets/styles/tailwind.css";
 
 import { Fragment } from "react";
 import { AccountManagement } from "pages/index.js";
